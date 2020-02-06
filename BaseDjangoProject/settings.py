@@ -120,6 +120,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+LOGIN_REDIRECT_URL = "/account/profile"
+
 LOGIN_URL = '/account/profile'
 
 STATICFILES_DIRS = [
