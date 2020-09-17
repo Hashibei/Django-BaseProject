@@ -1,4 +1,4 @@
-# :construction: **HALT** - No longer in active development
+# :construction: **HALT** - No longer in active development.
 This is no longer in active development as i have bigger priorities now, the code is up to date and you can safely develop your code using it.
 
 ---
