@@ -3,7 +3,7 @@ This is no longer in active development as i have bigger priorities now, the cod
 
 ---
 
-# BaseDjangoProject
+# Django-BaseProject
  A base django project to boost up the initial steps when creation a ground up application.
 
 ## Developed 
