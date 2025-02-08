@@ -1,5 +1,5 @@
 # :construction: **HALT** - No longer in active development.
-This is no longer in active development as i have bigger priorities now, the code is up to date and you can safely develop your code using it.
+This is no longer in active development as i have bigger priorities now, the code is not up to date and i can't assure safely development using it.
 
 ---
 
